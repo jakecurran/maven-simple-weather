@@ -1,0 +1,8 @@
+**************************************
+Current Weather Conditions for:
+Empire State Building, 350 5th Ave, New York, NY 10118, USA
+--------------------------------------
+Condition: Mostly Cloudy
+Temperature: 11.87°C (feels like 9.42)
+Humidity: 88%
+**************************************

@@ -1,0 +1,1082 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Empire State Building",
+          "short_name": "ESB",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "350",
+          "short_name": "350",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "5th Avenue",
+          "short_name": "5th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10118",
+          "short_name": "10118",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Empire State Building, 350 5th Ave, New York, NY 10118, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7489526,
+            "lng": -73.9848178
+          },
+          "southwest": {
+            "lat": 40.7479282,
+            "lng": -73.98649309999999
+          }
+        },
+        "location": {
+          "lat": 40.7484404,
+          "lng": -73.9856554
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7497893802915,
+            "lng": -73.98430646970849
+          },
+          "southwest": {
+            "lat": 40.7470914197085,
+            "lng": -73.98700443029149
+          }
+        }
+      },
+      "place_id": "ChIJtcaxrqlZwokRfwmmibzPsTU",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Complejo Torre de las Telecomunicaciones",
+          "short_name": "Complejo Torre de las Telecomunicaciones",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10001",
+          "short_name": "10001",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Complejo Torre de las Telecomunicaciones, New York, NY 10001, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.748503,
+          "lng": -73.985906
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7498519802915,
+            "lng": -73.98455701970849
+          },
+          "southwest": {
+            "lat": 40.7471540197085,
+            "lng": -73.98725498029151
+          }
+        }
+      },
+      "place_id": "ChIJw4bcqalZwokRs4kkzOThtV4",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "1-33",
+          "short_name": "1-33",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 33rd Street",
+          "short_name": "West 33rd Street",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10001",
+          "short_name": "10001",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1-33 West 33rd Street, New York, NY 10001, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7490045,
+            "lng": -73.985072
+          },
+          "southwest": {
+            "lat": 40.7477694,
+            "lng": -73.9880316
+          }
+        },
+        "location": {
+          "lat": 40.7481372,
+          "lng": -73.9858954
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.74973593029149,
+            "lng": -73.985072
+          },
+          "southwest": {
+            "lat": 40.74703796970849,
+            "lng": -73.9880316
+          }
+        }
+      },
+      "place_id": "Ei4xLTMzIFdlc3QgMzNyZCBTdHJlZXQsIE5ldyBZb3JrLCBOWSAxMDAwMSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Transystems",
+          "short_name": "Transystems",
+          "types": [
+            "establishment",
+            "point_of_interest"
+          ]
+        },
+        {
+          "long_name": "350",
+          "short_name": "350",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "5th Avenue",
+          "short_name": "5th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10118",
+          "short_name": "10118",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4010",
+          "short_name": "4010",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "Transystems, 350 5th Ave, New York, NY 10118, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.74826580000001,
+          "lng": -73.98531079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.74961478029151,
+            "lng": -73.98396181970848
+          },
+          "southwest": {
+            "lat": 40.74691681970851,
+            "lng": -73.98665978029149
+          }
+        }
+      },
+      "place_id": "ChIJndXDralZwokR-NRu_mfQmw8",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Midtown, New York, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.77410690000001,
+            "lng": -73.95889869999999
+          },
+          "southwest": {
+            "lat": 40.72686849999999,
+            "lng": -74.0089488
+          }
+        },
+        "location": {
+          "lat": 40.7549309,
+          "lng": -73.9840195
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.77410690000001,
+            "lng": -73.95889869999999
+          },
+          "southwest": {
+            "lat": 40.72686849999999,
+            "lng": -74.0089488
+          }
+        }
+      },
+      "place_id": "ChIJqXwSpAFZwokR28_WgZDMzb4",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Manhattan, New York, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.882214,
+            "lng": -73.907
+          },
+          "southwest": {
+            "lat": 40.6803955,
+            "lng": -74.047285
+          }
+        },
+        "location": {
+          "lat": 40.7830603,
+          "lng": -73.9712488
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.820045,
+            "lng": -73.90331300000001
+          },
+          "southwest": {
+            "lat": 40.698078,
+            "lng": -74.03514899999999
+          }
+        }
+      },
+      "place_id": "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9175771,
+            "lng": -73.70027209999999
+          },
+          "southwest": {
+            "lat": 40.4773991,
+            "lng": -74.25908989999999
+          }
+        },
+        "location": {
+          "lat": 40.7127837,
+          "lng": -74.0059413
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9152555,
+            "lng": -73.70027209999999
+          },
+          "southwest": {
+            "lat": 40.4960439,
+            "lng": -74.25573489999999
+          }
+        }
+      },
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10118",
+          "short_name": "10118",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Midtown",
+          "short_name": "Midtown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, NY 10118, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.7484238,
+          "lng": -73.9856319
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.74977278029149,
+            "lng": -73.98428291970849
+          },
+          "southwest": {
+            "lat": 40.7470748197085,
+            "lng": -73.9869808802915
+          }
+        }
+      },
+      "place_id": "ChIJ-aKcH69ZwokR-sHAExIavdY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10001",
+          "short_name": "10001",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Manhattan",
+          "short_name": "Manhattan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, NY 10001, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8282129,
+            "lng": -73.9321059
+          },
+          "southwest": {
+            "lat": 40.743451,
+            "lng": -74.00794499999999
+          }
+        },
+        "location": {
+          "lat": 40.75368539999999,
+          "lng": -73.9991637
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7597309,
+            "lng": -73.98362109999999
+          },
+          "southwest": {
+            "lat": 40.743451,
+            "lng": -74.00794499999999
+          }
+        }
+      },
+      "place_id": "ChIJnQClza9ZwokRQ37NEa49KoQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York County",
+          "short_name": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.882214,
+            "lng": -73.907
+          },
+          "southwest": {
+            "lat": 40.6803955,
+            "lng": -74.047285
+          }
+        },
+        "location": {
+          "lat": 40.7830603,
+          "lng": -73.9712488
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8792779,
+            "lng": -73.907
+          },
+          "southwest": {
+            "lat": 40.6838815,
+            "lng": -74.04723679999999
+          }
+        }
+      },
+      "place_id": "ChIJOwE7_GTtwokRFq0uOwLSE9g",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York-Northern New Jersey-Long Island, NY-NJ-PA",
+          "short_name": "New York-Northern New Jersey-Long Island, NY-NJ-PA",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York-Northern New Jersey-Long Island, NY-NJ-PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6018065,
+            "lng": -71.85621399999999
+          },
+          "southwest": {
+            "lat": 39.49853299999999,
+            "lng": -75.3585939
+          }
+        },
+        "location": {
+          "lat": 40.9590293,
+          "lng": -74.0300122
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6018065,
+            "lng": -71.85621399999999
+          },
+          "southwest": {
+            "lat": 39.49853299999999,
+            "lng": -75.3585939
+          }
+        }
+      },
+      "place_id": "ChIJ3YJV4PRWwokRFFI21ZrHXtQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York Metropolitan Area",
+          "short_name": "New York Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -71.777491
+          },
+          "southwest": {
+            "lat": 39.475198,
+            "lng": -75.3587649
+          }
+        },
+        "location": {
+          "lat": 40.7127761,
+          "lng": -74.00595439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -71.777491
+          },
+          "southwest": {
+            "lat": 39.475198,
+            "lng": -75.3587649
+          }
+        }
+      },
+      "place_id": "ChIJ-5Z24NaGwokRiMh4Rj8FNMo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "establishment",
+            "point_of_interest",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.777491
+          },
+          "southwest": {
+            "lat": 40.4773991,
+            "lng": -79.7625901
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.0125923,
+            "lng": -71.8562029
+          },
+          "southwest": {
+            "lat": 40.4961036,
+            "lng": -79.761996
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "establishment",
+        "point_of_interest",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.5388001,
+            "lng": -66.885417
+          },
+          "southwest": {
+            "lat": 18.7763,
+            "lng": 170.5957
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}
