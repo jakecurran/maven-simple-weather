@@ -6,7 +6,7 @@ import java.net.URLConnection;
 import java.util.Scanner;
 
 public class WeatherRetriever {
-  private static final String darkSkyKey = "DARK_SKY_API_KEY";
+  private static final String darkSkyKey = System.getenv("DARK_SKY_API_KEY");
 
   public InputStream retrieve(Location location) throws Exception {
     String url = "https://api.darksky.net/forecast/" + darkSkyKey + "/" +

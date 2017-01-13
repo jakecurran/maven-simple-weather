@@ -4,4 +4,4 @@ This is a program adapted from Sonatype's "Maven by Example" book. The program s
 
 The purpose of the program is merely to aid in the understanding of Maven, specifically Maven in the context of developing a command line application.
 
-To compile/execute/test, WeatherRetreiver.java must first be supplied with a Dark Sky API key.
+To compile/execute/test, the environment variable `$DARK_SKY_API_KEY` must first be set with an API key attained from https://darksky.net/dev.
