@@ -1,15 +1,9 @@
 package com.jakecurran.mavenbook.weather;
 
 import java.io.InputStream;
-import org.apache.log4j.PropertyConfigurator;
 
 public class Main {
   public static void main(String[] args) throws Exception {
-    // Configure Log4J
-    PropertyConfigurator
-    .configure(Main.class.getClassLoader()
-    .getResource("log4j.properties"));
-
     // Read address from the command line, use default if none is provided
     String address = "10118";
     try {
